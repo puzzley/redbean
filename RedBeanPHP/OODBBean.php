@@ -25,7 +25,7 @@ use RedBeanPHP\OODBBean as OODBBean;
  * This source file is subject to the BSD/GPLv2 License that is bundled
  * with this source code in the file license.txt.
  */
-class OODBBean implements\IteratorAggregate,\ArrayAccess,\Countable
+class OODBBean implements \IteratorAggregate,\ArrayAccess,\Countable
 {
 	/**
 	 * FUSE error modes.
